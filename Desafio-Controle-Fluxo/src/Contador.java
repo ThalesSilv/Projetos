@@ -23,7 +23,7 @@ public class Contador {
 		
 		int contagem = parametroDois - parametroUm;
 		for(int indice = 0;indice <= contagem;indice++){
-            System.out.println(parametroUm+indice);
+            System.out.println("imprimindo o numero "+(indice+1)+": " +(parametroUm+indice));
         }
     }
 }
