@@ -1,0 +1,1 @@
+Projeto feito para simular a criação de uma conta bancária com a finalidade de exercitar a sintaxe java e utilizar as funções de argumentos no terminal.
